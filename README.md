@@ -34,7 +34,7 @@ Before running the Password Manager Tool make sure that you have the dependencie
    ```
 4. Execute the program
    ```
-   python3 ./Password-Manager.py
+   python3 ./password_manager_tool.py
    ```
 
 
