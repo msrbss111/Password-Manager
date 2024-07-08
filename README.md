@@ -66,7 +66,11 @@ When the user selects an instance, the credentials will be displayed in the belo
 
 ![s12](https://github.com/msrbss111/Password-Manager/assets/109531651/5bff9ab2-57ee-4760-a3f0-12e544d76a6c)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![s14](https://github.com/msrbss111/Password-Manager/assets/109531651/6be8f70d-f5ad-45e7-b0e5-5a3e1761edc9)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![s15](https://github.com/msrbss111/Password-Manager/assets/109531651/e1ffe79f-633b-4cba-b0d9-af56f527f44c)
 
@@ -80,7 +84,11 @@ The user will be displayed with a message saying the Credential was updated succ
 
 ![s33](https://github.com/msrbss111/Password-Manager/assets/109531651/4355547f-6923-41db-acc0-677f7526965d)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![s34](https://github.com/msrbss111/Password-Manager/assets/109531651/980a8cd8-1717-4668-9dc2-af56a1cfb082)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![s35](https://github.com/msrbss111/Password-Manager/assets/109531651/adad9f5d-1d39-4c8b-b7ca-8bc0556881a0)
 
@@ -90,6 +98,8 @@ First the user needs to select an instance, then click on the "Delete Credential
 The user will be displayed with a message saying the Credential was deleted successfully.
 
 ![s21](https://github.com/msrbss111/Password-Manager/assets/109531651/0a11dcad-ab1d-4b1a-9379-71db8da060a6)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![s22](https://github.com/msrbss111/Password-Manager/assets/109531651/6baf4f49-d9a0-4c73-992c-8bfbeec4e55e)
 
