@@ -45,7 +45,7 @@ Before running the Password Manager Tool make sure that you have the dependencie
 
 When we run the program, we then see the GUI pop up
 
-
+![s1](https://github.com/msrbss111/Password-Manager/assets/109531651/775345cd-82d4-44d3-a35a-5e2744904467)
 
 ### Step 1
 The user will be prompted to enter a Master Key. The Master Key is crucial since it is required to view the stored credentials and to encrypt the credentials.
