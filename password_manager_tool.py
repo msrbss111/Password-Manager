@@ -402,7 +402,7 @@ def view_all_the_credentials():
 
 # Initializing and setting up the tkinter GUI
 PMT = tk.Tk()
-PMT.title("PassGuard - Password Manager Tool")
+PMT.title("Password Manager Tool")
 PMT.geometry("370x450")
 
 # Creating the GUI elements
