@@ -1,0 +1,8 @@
+tkinter
+json
+os
+base64
+random
+string
+hashlib
+cryptography
