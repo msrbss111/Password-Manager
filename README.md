@@ -77,7 +77,8 @@ When the user selects an instance, the credentials will be displayed in the belo
 ### Step 4
 If the user wants to make any changes, the user should select an instance and click on the 'Update Credential' button to make changes or 'Delete Credential' button to delete a credential 
 
-a) Updating Credentials
+a) Updating Credentials:
+
 First the user needs to select an instance, then click on the "Update Credential" button and then enter the credentials and then click on "Update and Save Credential" button.
 The user will be displayed with a message saying the Credential was updated successfully.
 
@@ -93,7 +94,8 @@ The user will be displayed with a message saying the Credential was updated succ
 ![s35](https://github.com/msrbss111/Password-Manager/assets/109531651/adad9f5d-1d39-4c8b-b7ca-8bc0556881a0)
 
 
-b) Delete Credentials
+b) Delete Credentials:
+
 First the user needs to select an instance, then click on the "Delete Credential" button.
 The user will be displayed with a message saying the Credential was deleted successfully.
 
