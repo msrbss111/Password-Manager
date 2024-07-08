@@ -15,7 +15,6 @@ Before running the Password Manager Tool make sure that you have the dependencie
  - hashlib
  - cryptography
 
-
 # Installation
 
 
@@ -32,6 +31,9 @@ Before running the Password Manager Tool make sure that you have the dependencie
    ```
    pip install -r requirements.txt
    ```
+   When running the requirements, if an error occurs diplaying "Defaulting to user installation because normal site-packages is not writeable".
+   It means that all the packages are installed. You can move to the 4th Step.
+   
 4. Execute the program
    ```
    python3 ./password_manager_tool.py
