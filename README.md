@@ -65,7 +65,9 @@ In order to view the credential(s) stored, the user should click on the 'View Cr
 When the user selects an instance, the credentials will be displayed in the below Text Area.
 
 ![s12](https://github.com/msrbss111/Password-Manager/assets/109531651/5bff9ab2-57ee-4760-a3f0-12e544d76a6c)
+
 ![s14](https://github.com/msrbss111/Password-Manager/assets/109531651/6be8f70d-f5ad-45e7-b0e5-5a3e1761edc9)
+
 ![s15](https://github.com/msrbss111/Password-Manager/assets/109531651/e1ffe79f-633b-4cba-b0d9-af56f527f44c)
 
 ### Step 4
