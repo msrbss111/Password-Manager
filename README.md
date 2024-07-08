@@ -18,6 +18,8 @@ Before running the Password Manager Tool make sure that you have the dependencie
 # Installation
 
 
+https://github.com/msrbss111/Password-Manager/assets/109531651/79f2d9f6-97ff-499e-b83e-f723ce371f38
+
 
 1. First clone the repository by typing the following command
    ```
